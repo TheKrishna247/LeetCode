@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheKrishna247/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0283-move-zeroes) |
+| [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,8 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
+| [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
