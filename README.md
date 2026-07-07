@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheKrishna247/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/TheKrishna247/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
