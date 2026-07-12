@@ -12,3 +12,5 @@ class Solution {
         
     }
 }
+
+// return (int) Math.sqrt(x);
