@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/TheKrishna247/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TheKrishna247/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TheKrishna247/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/TheKrishna247/LeetCode/tree/master/0441-arranging-coins) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheKrishna247/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TheKrishna247/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
