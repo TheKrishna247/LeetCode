@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/TheKrishna247/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TheKrishna247/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/TheKrishna247/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheKrishna247/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheKrishna247/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TheKrishna247/LeetCode/tree/master/0031-next-permutation) |
@@ -160,7 +161,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TheKrishna247/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/TheKrishna247/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/TheKrishna247/LeetCode/tree/master/0443-string-compression) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TheKrishna247/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
