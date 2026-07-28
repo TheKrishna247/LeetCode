@@ -1,5 +1,8 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
+        long val = (long) m*k;
+        if(val > bloomDay.length) return -1; // impossible case 
+
         int low =Arrays.stream(bloomDay).min().getAsInt();
         int high =Arrays.stream(bloomDay).max().getAsInt();
         int ans =-1;
