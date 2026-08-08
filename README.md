@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheKrishna247/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2951-find-the-peaks](https://github.com/TheKrishna247/LeetCode/tree/master/2951-find-the-peaks) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/TheKrishna247/LeetCode/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/TheKrishna247/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/TheKrishna247/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TheKrishna247/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TheKrishna247/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TheKrishna247/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
