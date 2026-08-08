@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/TheKrishna247/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TheKrishna247/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TheKrishna247/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheKrishna247/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TheKrishna247/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TheKrishna247/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TheKrishna247/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/TheKrishna247/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/TheKrishna247/LeetCode/tree/master/0389-find-the-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheKrishna247/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/TheKrishna247/LeetCode/tree/master/2951-find-the-peaks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheKrishna247/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
