@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/TheKrishna247/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/TheKrishna247/LeetCode/tree/master/0509-fibonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/TheKrishna247/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheKrishna247/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/TheKrishna247/LeetCode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TheKrishna247/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/TheKrishna247/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
