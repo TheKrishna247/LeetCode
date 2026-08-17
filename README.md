@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheKrishna247/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheKrishna247/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TheKrishna247/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TheKrishna247/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/TheKrishna247/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TheKrishna247/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheKrishna247/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/TheKrishna247/LeetCode/tree/master/0392-is-subsequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheKrishna247/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheKrishna247/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TheKrishna247/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TheKrishna247/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheKrishna247/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TheKrishna247/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -270,4 +273,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
