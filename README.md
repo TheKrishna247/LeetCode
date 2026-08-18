@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TheKrishna247/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TheKrishna247/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/TheKrishna247/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TheKrishna247/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/TheKrishna247/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/TheKrishna247/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/TheKrishna247/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TheKrishna247/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TheKrishna247/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/TheKrishna247/LeetCode/tree/master/0263-ugly-number) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TheKrishna247/LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheKrishna247/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/TheKrishna247/LeetCode/tree/master/2951-find-the-peaks) |
 ## Heap (Priority Queue)
 |  |
@@ -281,4 +285,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
