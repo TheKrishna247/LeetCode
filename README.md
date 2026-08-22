@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/TheKrishna247/LeetCode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheKrishna247/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheKrishna247/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TheKrishna247/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
