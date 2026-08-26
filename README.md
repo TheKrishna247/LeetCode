@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/TheKrishna247/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TheKrishna247/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TheKrishna247/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/TheKrishna247/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheKrishna247/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/TheKrishna247/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/TheKrishna247/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/TheKrishna247/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
@@ -319,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
