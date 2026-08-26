@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/TheKrishna247/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheKrishna247/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
+| [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/TheKrishna247/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/TheKrishna247/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/TheKrishna247/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
+| [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/TheKrishna247/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/TheKrishna247/LeetCode/tree/master/0443-string-compression) |
+| [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 ## Trie
 |  |
 | ------- |
