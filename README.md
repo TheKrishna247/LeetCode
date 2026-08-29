@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/TheKrishna247/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheKrishna247/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/TheKrishna247/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/TheKrishna247/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheKrishna247/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/TheKrishna247/LeetCode/tree/master/0881-boats-to-save-people) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/TheKrishna247/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
