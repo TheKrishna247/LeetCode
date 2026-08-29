@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/TheKrishna247/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheKrishna247/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheKrishna247/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheKrishna247/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/TheKrishna247/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/TheKrishna247/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheKrishna247/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
