@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheKrishna247/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3819-rotate-non-negative-elements](https://github.com/TheKrishna247/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TheKrishna247/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/TheKrishna247/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3819-rotate-non-negative-elements](https://github.com/TheKrishna247/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 ## Union-Find
 |  |
 | ------- |
