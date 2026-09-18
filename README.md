@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TheKrishna247/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TheKrishna247/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/TheKrishna247/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0283-move-zeroes) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/TheKrishna247/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TheKrishna247/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheKrishna247/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TheKrishna247/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/TheKrishna247/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheKrishna247/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TheKrishna247/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheKrishna247/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TheKrishna247/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TheKrishna247/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TheKrishna247/LeetCode/tree/master/0155-min-stack) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
