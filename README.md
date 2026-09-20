@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TheKrishna247/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/TheKrishna247/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 ## Union-Find
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0796-rotate-string](https://github.com/TheKrishna247/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/TheKrishna247/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheKrishna247/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
