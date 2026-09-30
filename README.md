@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheKrishna247/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/TheKrishna247/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/TheKrishna247/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/TheKrishna247/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TheKrishna247/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheKrishna247/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TheKrishna247/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/TheKrishna247/LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/TheKrishna247/LeetCode/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TheKrishna247/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
