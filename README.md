@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/TheKrishna247/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TheKrishna247/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/TheKrishna247/LeetCode/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TheKrishna247/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/TheKrishna247/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/TheKrishna247/LeetCode/tree/master/2951-find-the-peaks) |
 ## Heap (Priority Queue)
 |  |
