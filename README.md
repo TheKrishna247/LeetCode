@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/TheKrishna247/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/TheKrishna247/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheKrishna247/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheKrishna247/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/TheKrishna247/LeetCode/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/TheKrishna247/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/TheKrishna247/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2540-minimum-common-value](https://github.com/TheKrishna247/LeetCode/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheKrishna247/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/TheKrishna247/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/TheKrishna247/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TheKrishna247/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -431,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheKrishna247/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheKrishna247/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheKrishna247/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
