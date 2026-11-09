@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/TheKrishna247/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/TheKrishna247/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TheKrishna247/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/TheKrishna247/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/TheKrishna247/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/TheKrishna247/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/TheKrishna247/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/TheKrishna247/LeetCode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/TheKrishna247/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheKrishna247/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TheKrishna247/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Number Theory
 |  |
