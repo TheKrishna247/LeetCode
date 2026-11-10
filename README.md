@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/TheKrishna247/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/TheKrishna247/LeetCode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/TheKrishna247/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TheKrishna247/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/TheKrishna247/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TheKrishna247/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TheKrishna247/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Number Theory
