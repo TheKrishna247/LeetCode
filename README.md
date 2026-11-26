@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/TheKrishna247/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/TheKrishna247/LeetCode/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/TheKrishna247/LeetCode/tree/master/2029-stone-game-ix) |
+| [3360-stone-removal-game](https://github.com/TheKrishna247/LeetCode/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/TheKrishna247/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheKrishna247/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TheKrishna247/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheKrishna247/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/TheKrishna247/LeetCode/tree/master/3248-snake-in-matrix) |
+| [3360-stone-removal-game](https://github.com/TheKrishna247/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/TheKrishna247/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/TheKrishna247/LeetCode/tree/master/3819-rotate-non-negative-elements) |
 ## Union-Find
